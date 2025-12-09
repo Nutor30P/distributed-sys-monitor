@@ -1,0 +1,4 @@
+echo "collector" >> .gitignore
+echo "agent_mem" >> .gitignore
+echo "agent_cpu" >> .gitignore
+echo "llave-parcial.pem" > .gitignore
